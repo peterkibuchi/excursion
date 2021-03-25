@@ -1,0 +1,60 @@
+/* Universal Styles */
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-bottom: 20px;
+    width: auto;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* Header */
+header h1 {
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    padding: 5px;
+}
+
+/* Main */
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    padding: 5px;
+}
+
+video {
+    align-self: center;
+    max-width: 350px;
+    width: 100%;
+}
+
+
+
+.description {
+    color: gray;
+    font-size: 21px;
+}
+
+.camp {
+    width: 90%;
+}
+
+.margin {
+    margin-top: 30px;
+}
+
+/* Footer */
+footer p {
+    margin-right: 10px;
+    text-align: right;
+    color: gray;
+}
