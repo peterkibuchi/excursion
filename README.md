@@ -8,7 +8,7 @@
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Inspiration](#inspiration)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -31,9 +31,9 @@ Project is: _completed_.
 * Improve the visual design.
 
 
-## Inspiration
+## Acknowledgements
 - This is a challenge project on Codecademy's [Full Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/).
 
 
 ## Contact
-Created by [Peter Kibuchi](https://peterkibuchi.com) - feel free to contact me!
+Created by [Peter Kibuchi](https://www.peterkibuchi.com).
